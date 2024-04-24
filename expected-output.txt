@@ -1,0 +1,20 @@
+Game 1: first basket was Layup by Jokic
+Did Jokic make any of the first 3 shots? True
+How many of the first 3 shots were made by Jokic? 2
+How many of the first 3 shots were a Layup made by Jokic? 1
+
+---
+
+Game 2: first basket was Layup by Jokic
+Did Jokic make any of the first 3 shots? True
+How many of the first 3 shots were made by Jokic? 2
+How many of the first 3 shots were a Layup made by Jokic? 0
+
+---
+
+Game 3: first basket was Layup by Jokic
+Did Jokic make any of the first 3 shots? False
+How many of the first 3 shots were made by Jokic? 0
+How many of the first 3 shots were a Layup made by Jokic? 0
+
+---
